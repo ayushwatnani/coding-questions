@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LAstWord",
+            "request": "launch",
+            "mainClass": "LAstWord",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch CommonPrefix",
+            "request": "launch",
+            "mainClass": "CommonPrefix",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch LCS",
+            "request": "launch",
+            "mainClass": "LCS",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort012Arr",
+            "request": "launch",
+            "mainClass": "Sort012Arr",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sort012",
+            "request": "launch",
+            "mainClass": "Sort012",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseFirstK",
+            "request": "launch",
+            "mainClass": "ReverseFirstK",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReversePrefix",
+            "request": "launch",
+            "mainClass": "ReversePrefix",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinMax",
+            "request": "launch",
+            "mainClass": "MinMax",
+            "projectName": "coding-questions_88433b26"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseArray",
+            "request": "launch",
+            "mainClass": "ReverseArray",
+            "projectName": "coding-questions_88433b26"
+        }
+    ]
+}
