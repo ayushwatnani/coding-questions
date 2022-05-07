@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "leetcode/344",
+        "leetcode/14",
         "DSA-450",
-        "leetcode"
+        "leetcode/1"
     ]
 }

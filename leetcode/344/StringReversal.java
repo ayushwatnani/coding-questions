@@ -17,6 +17,7 @@ class StringReversal {
         Scanner sc = new Scanner(System.in);
         String str = sc.next();
         str = reverseString(str);
+        System.out.println(str);
         char[] s = str.toCharArray();
         System.out.print(Arrays.toString(s));
         sc.close();
