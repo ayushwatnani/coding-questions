@@ -1,9 +1,11 @@
 const makePairs01 = (obj) => {
-	return
+	return Object.entries(obj);
 }
 
 const makePairs02 = (obj) => {
-	return ;
+	return Object.keys(obj).map((ele)=>{
+		[ele, obj[ele]];
+	});
 }
 
 const makePairs03 = (obj) => {
@@ -17,7 +19,7 @@ const makePairs03 = (obj) => {
 }
 
 const data = {a:1, b:2, c:3};
-//console.log(makePairs01(data));
-//console.log(makePairs02(data));
+console.log(makePairs01(data));
+console.log(makePairs02(data));
 console.log(makePairs03(data));
 
