@@ -3,8 +3,8 @@ const makePairs01 = (obj) => {
 }
 
 const makePairs02 = (obj) => {
-	return Object.keys(obj).map((ele)=>{
-		[ele, obj[ele]];
+	return Object.keys(obj).map((ele)=>{		
+		return [ele, obj[ele]];
 	});
 }
 
