@@ -1,0 +1,6 @@
+git link for questions
+https://github.com/andrewborisov/javascript-practice/tree/master/arrays/solutions
+https://github.com/andrewborisov/javascript-practice
+
+medium link
+https://medium.com/@andrey.igorevich.borisov/10-javascript-exercises-with-arrays-c44eea129fba
